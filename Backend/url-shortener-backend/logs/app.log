@@ -1,0 +1,16 @@
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-07-30T06:38:54.487Z"}
+{"level":"info","message":{"body":{"url":"https://gemini.google.com/app/d0e3d0b0ed38ac5a"},"method":"POST","time":"2025-07-30T06:46:34.279Z","url":"/shorturls"},"timestamp":"2025-07-30T06:46:34.282Z"}
+{"level":"info","message":{"method":"GET","time":"2025-07-30T06:47:47.058Z","url":"/shorturls/https://gemini.google.com/app/d0e3d0b0ed38ac5a"},"timestamp":"2025-07-30T06:47:47.060Z"}
+{"level":"info","message":{"body":{"url":"https://gemini.google.com/app/d0e3d0b0ed38ac5a"},"method":"POST","time":"2025-07-30T06:48:01.210Z","url":"/shorturls"},"timestamp":"2025-07-30T06:48:01.210Z"}
+{"level":"info","message":{"method":"GET","time":"2025-07-30T06:48:07.569Z","url":"/shorturls/http://localhost:5000/ee1a17"},"timestamp":"2025-07-30T06:48:07.569Z"}
+{"level":"info","message":{"method":"GET","time":"2025-07-30T06:48:15.400Z","url":"/shorturls/http://localhost:5000/ee1a17"},"timestamp":"2025-07-30T06:48:15.400Z"}
+{"level":"info","message":{"body":{"url":"https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0"},"method":"POST","time":"2025-07-30T06:56:30.212Z","url":"/shorturls"},"timestamp":"2025-07-30T06:56:30.214Z"}
+{"level":"info","message":{"body":{"url":"https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0"},"method":"POST","time":"2025-07-30T06:56:35.958Z","url":"/shorturls"},"timestamp":"2025-07-30T06:56:35.958Z"}
+{"level":"info","message":{"body":{"url":"https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0"},"method":"POST","time":"2025-07-30T06:56:37.316Z","url":"/shorturls"},"timestamp":"2025-07-30T06:56:37.316Z"}
+{"level":"info","message":{"body":{"url":"https://mail.google.com/mail/u/0/#inbox"},"method":"POST","time":"2025-07-30T06:56:50.585Z","url":"/shorturls"},"timestamp":"2025-07-30T06:56:50.585Z"}
+{"level":"info","message":{"body":{"url":"https://mail.google.com/mail/u/0/#inbox"},"method":"POST","time":"2025-07-30T06:56:52.475Z","url":"/shorturls"},"timestamp":"2025-07-30T06:56:52.475Z"}
+{"level":"info","message":{"method":"GET","time":"2025-07-30T06:56:55.935Z","url":"/e61ffc"},"timestamp":"2025-07-30T06:56:55.935Z"}
+{"level":"info","message":{"body":{"url":"https://mail.google.com/mail/u/0/#inbox"},"method":"POST","time":"2025-07-30T06:57:48.471Z","url":"/shorturls"},"timestamp":"2025-07-30T06:57:48.471Z"}
+{"level":"info","message":{"method":"GET","time":"2025-07-30T06:57:58.566Z","url":"/shorturls/1c31c9"},"timestamp":"2025-07-30T06:57:58.566Z"}
+{"level":"info","message":{"body":{"url":"https://docs.google.com/document/d/1LdKXn0KqmIDSs7ukHxEu2D0wF72HbWYhTCvIP7MLk9k/edit?tab=t.0#heading=h.9603973h7sil"},"method":"POST","time":"2025-07-30T07:03:09.824Z","url":"/shorturls"},"timestamp":"2025-07-30T07:03:09.825Z"}
+{"level":"info","message":{"method":"GET","time":"2025-07-30T07:03:25.169Z","url":"/shorturls/8fc799"},"timestamp":"2025-07-30T07:03:25.169Z"}
