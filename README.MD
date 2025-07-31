@@ -272,3 +272,4 @@ Save them in a `screenshots/` folder and replace the placeholders.
 
 Do you want me to also provide a **sample set of screenshots (mock images)** so you can include them immediately, even before running the app?
 ```
+# Shortener
