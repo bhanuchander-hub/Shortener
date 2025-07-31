@@ -10,8 +10,8 @@ app.use(cors());
 app.use(bodyParser.json());
 app.use(loggingMiddleware);
 
-mongoose.connect("mongodb+srv://bhanuchander:<db_password>@cluster0.w7qrxbk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-  .then(() => logger.info("Connected to MongoDB"))
+mongoose.connect("mongodb+srv://bhanuchander:bhanuchander@cluster0.w7qrxbk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+  .then(() => console.log("Connected to MongoDB"))
   .catch((err) => logger.error("MongoDB connection error:", err));
 
 app.use("/", urlRoutes);
