@@ -47,3 +47,5 @@
 {"level":"info","message":{"body":{"url":"https://cloud.mongodb.com/v2/6889bb916cb1c10df6a28017#/security/network/accessList"},"method":"POST","time":"2025-07-31T13:44:30.402Z","url":"/shorturls"},"timestamp":"2025-07-31T13:44:30.402Z"}
 {"level":"info","message":{"body":{"url":"https://cloud.mongodb.com/v2/6889bb916cb1c10df6a28017#/security/network/accessList"},"method":"POST","time":"2025-07-31T13:45:09.489Z","url":"/shorturls"},"timestamp":"2025-07-31T13:45:09.489Z"}
 {"level":"info","message":{"method":"GET","time":"2025-07-31T13:45:28.467Z","url":"/shorturls/2747c3"},"timestamp":"2025-07-31T13:45:28.467Z"}
+{"level":"info","message":{"body":{"url":"https://cloud.mongodb.com/v2/6889bb916cb1c10df6a28017#/security/network/accessList"},"method":"POST","time":"2025-07-31T14:14:18.338Z","url":"/shorturls"},"timestamp":"2025-07-31T14:14:18.339Z"}
+{"level":"info","message":{"method":"GET","time":"2025-07-31T14:14:29.290Z","url":"/shorturls/5dd58c"},"timestamp":"2025-07-31T14:14:29.290Z"}
